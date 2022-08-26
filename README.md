@@ -13,6 +13,6 @@
 </div>
 
 # maratona-explorer3
-## 🥇 detalhes do projeto
+## 🥇 detalhes do projeto - RocketCoffee
 
 ## ✅ projeto feito na evento da maratona Explorer , um site de vender bebidas construido em html e css.
