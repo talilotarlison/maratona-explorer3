@@ -16,3 +16,4 @@
 ## 🥇 detalhes do projeto - RocketCoffee
 
 ## ✅ projeto feito na evento da maratona Explorer 3 edição, um site de vender bebidas construido em html e css.
+ <a href="https://codepen.io/talilo-tarlison/pen/gOejBvo"
