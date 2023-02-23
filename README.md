@@ -15,5 +15,10 @@
 ### maratona-explorer3
 ### 🥇 detalhes do projeto - RocketCoffee
 
+## Tecnologias
+- HTML
+- CSS
+- JS
+
 #### ✅ projeto feito no evento da maratona Explorer 3 edição, um site de vender bebidas construido em html e css.
  #### 💎 Link do meu projeto no <a href="https://codepen.io/talilo-tarlison/pen/gOejBvo">codepen.io<a>!
